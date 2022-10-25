@@ -97,6 +97,11 @@ main {
   
 }
 
+.contato-principal{
+  width: 940px;
+  margin: 0 auto;
+}
+
 form {
   margin: 40px 0;  
 }
@@ -248,9 +253,9 @@ td, th {
 }
 
 @media screen and (max-width: 480px) {
-  .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
-    width: auto;
-  }
+  .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .contato-principal {
+    width: auto;    
+  }  
 
   h1 {
     text-align: center;
@@ -262,5 +267,22 @@ td, th {
 
   .lista-beneficios, .imagem-beneficios {
     width: 100%;
+  }
+
+  .produtos {
+    width: auto;
+    margin: 5px auto;
+           
+  }
+  
+  .produtos li {
+    display: block;       
+    width: 80%;   
+    margin: 50px auto;   
+  }
+  
+  .contato-principal{
+    margin-inline: 60px;
+    
   }
 }
