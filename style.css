@@ -285,4 +285,8 @@ td, th {
     margin-inline: 60px;
     
   }
+
+  .enviar {
+    width: 70%;    
+  }
 }
