@@ -15,6 +15,6 @@
    
 ##
 
-<img align="center" alt="Elizabeth-Js" height="400" width="800" src="https://github.com/elizabethesantos/NLW08-Impulse/blob/main/NLW08-ReturnFrente.jpeg">
+<img align="center" alt="Elizabeth-Js" height="400" width="800" src="https://github.com/elizabethesantos/aluraSuzano-html_css_1/blob/main/alura-html.jpeg">
 
 
